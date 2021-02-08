@@ -27,7 +27,7 @@ def escape_html(word):
     return escape(word)
 
 PM_START_TEXT = """
-Hey {}, my name is **{}**! Im a group management Bot... 
+Salam {} bratva mənim adım **{}**! Im a group management Bot... 
 
 Maintained by  [This guy](tg://user?id={}).
 
